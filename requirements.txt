@@ -5,3 +5,6 @@ Pillow==8.3.1
 sqlparse==0.3.1
 urllib3==1.26.8
 whitenoise==5.0.1
+heroku==0.1.4
+filelock==3.4.2
+requests==2.27.1
